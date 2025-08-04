@@ -1,4 +1,4 @@
-# tech-clarity
+## tech-clarity
 
 Welcome to my public collection of beginner-friendly documents which designed to simplify technical concepts for devs, students, and tech-curious folks!
 
@@ -9,13 +9,14 @@ Welcome to my public collection of beginner-friendly documents which designed to
 
 I post these as a post on my instagram account - [@this.tech.girl](https://www.instagram.com/this.tech.girl)
 
-## ⭐ Show Some Love
+## ⭐ Like this project?
 
-[![Star this repo](https://img.shields.io/github/stars/this-tech-girl/tech-clarity?style=social)](https://github.com/this-tech-girl/tech-clarity)
+If you found these carousels helpful, please consider starring the repo 🙌  
+It helps others discover it too!
 
----
+[![Star this repo](https://img.shields.io/github/stars/this-tech-girl/tech-clarity?style=social)](https://github.com/this-tech-girl/tech-clarity/stargazers)
 
-## 🔗 Follow for More
+## 🔗 Follow & Connect with me
 
 **Youtube** → [@this-tech-girl](https://youtube.com/@this-tech-girl)
 📸 **Instagram** → [@this.tech.girl](https://www.instagram.com/this.tech.girl)
